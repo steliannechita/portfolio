@@ -27,8 +27,8 @@
 .project img {
   border-radius: 10px;
   border: 1px gray solid;
-  width: 450;
-  height: 320;
+  width: 550px;
+  height: 380px;
 }
 .links-container {
   display: flex;

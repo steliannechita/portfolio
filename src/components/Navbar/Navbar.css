@@ -3,8 +3,6 @@
   font-family: "RobotoCondensed";
   margin: 0 auto;
   box-sizing: border-box;
-  
-  
 }
 
 .navbar a {
@@ -16,17 +14,19 @@
   text-decoration: none;
   font-size: 1em;
   border-radius: 10px;
-  width: 100px;
-  color:black
+  width: 5em;
+  color: black;
 }
 
-
 .navbar a:hover {
-  background-color:lightgray;
+  background-color: lightgray;
 }
 
 @media screen and (max-width: 600px) {
   .navbar a {
     margin: 0.2em;
+  }
+  .navbar {
+    justify-content: center;
   }
 }
