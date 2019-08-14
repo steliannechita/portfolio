@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+  font-family: "RobotoCondensed";
+  margin: 0 auto;
+  box-sizing: border-box;
+  
+  
+}
+
+.navbar a {
+  margin: 1.5em 0.8em;
+  border: 1px black dashed;
+  padding: 0.5em;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1em;
+  border-radius: 10px;
+  width: 100px;
+  color:black
+}
+
+
+.navbar a:hover {
+  background-color:lightgray;
+}
+
+@media screen and (max-width: 600px) {
+  .navbar a {
+    margin: 0;
+  }
+}
