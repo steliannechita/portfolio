@@ -11,7 +11,7 @@ function Project(props) {
       <img
         src={image}
         alt="profile"
-        style={{ width: 450, height: 320, float: "right" }}
+        
       />
       <p>{description}</p>
       <div className="links-container">
