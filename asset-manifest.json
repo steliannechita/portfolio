@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.70fc72a8.chunk.css",
+    "main.js": "/portfolio/static/js/main.4463dce9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4463dce9.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.7d6b5f10.chunk.js": "/portfolio/static/js/2.7d6b5f10.chunk.js",
+    "static/js/2.7d6b5f10.chunk.js.map": "/portfolio/static/js/2.7d6b5f10.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.7f4fe0297f3360c14fd6b3c710a59395.js": "/portfolio/precache-manifest.7f4fe0297f3360c14fd6b3c710a59395.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.70fc72a8.chunk.css.map": "/portfolio/static/css/main.70fc72a8.chunk.css.map",
+    "static/media/Python.png": "/portfolio/static/media/Python.f6a5f64d.png",
+    "static/media/css3.png": "/portfolio/static/media/css3.de2f626b.png",
+    "static/media/index.css": "/portfolio/static/media/roboto-condensed.light.cf4449c1.ttf",
+    "static/media/email_icon.png": "/portfolio/static/media/email_icon.fd99f8e3.png",
+    "static/media/github_icon.png": "/portfolio/static/media/github_icon.e2a62886.png",
+    "static/media/jQuery.png": "/portfolio/static/media/jQuery.e0f850ea.png",
+    "static/media/linkedin_icon.png": "/portfolio/static/media/linkedin_icon.56ab00e8.png",
+    "static/media/node.png": "/portfolio/static/media/node.41cb99a6.png",
+    "static/media/profile_pic.jpg": "/portfolio/static/media/profile_pic.2962cebb.jpg",
+    "static/media/project1.png": "/portfolio/static/media/project1.84e2b47f.png",
+    "static/media/project2.png": "/portfolio/static/media/project2.f05fb721.png",
+    "static/media/project3.png": "/portfolio/static/media/project3.062b7fa3.png",
+    "static/media/react.png": "/portfolio/static/media/react.6d6aa0ac.png",
+    "static/media/Skills.css": "/portfolio/static/media/section-image-SKILLS.dc737c10.jpg",
+    "static/media/Bio.css": "/portfolio/static/media/section-image-bio.1be1d41d.jpg",
+    "static/media/SocialProfiles.css": "/portfolio/static/media/section-image-contact.96d5f8b1.jpg",
+    "static/media/Projects.css": "/portfolio/static/media/section-image-projects.074e7ce1.jpg",
+    "static/media/twitter_icon.png": "/portfolio/static/media/twitter_icon.512536cb.png"
+  }
+}
