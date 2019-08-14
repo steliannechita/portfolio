@@ -1,9 +1,10 @@
 {
-  "homepage": "https://steliannechita.github.io",
+  "homepage": "https://steliannechita.github.io/portfolio-website",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.0.1"
