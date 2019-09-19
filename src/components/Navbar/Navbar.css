@@ -1,32 +1,41 @@
 .navbar {
   display: flex;
   font-family: "RobotoCondensed";
-  margin: 0 auto;
-  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+  height: 70px;
+  justify-content: space-between;
+  position: fixed;
+  z-index: 999;
+  background-color: rgb(97, 64, 151);
 }
 
 .navbar a {
-  margin: 1.5em 0.8em;
-  border: 1px black dashed;
-  padding: 0.5em;
-  font-weight: 700;
-  text-align: center;
+  width: 20%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
   text-decoration: none;
-  font-size: 1em;
-  border-radius: 10px;
-  width: 5em;
-  color: black;
+  font-size: 1.5em;
+  letter-spacing: 1px;
+  color: white;
 }
 
 .navbar a:hover {
-  background-color: lightgray;
+  background-color: rgb(64, 0, 128);
+  border-bottom: 3px white solid;
+  
 }
 
 @media screen and (max-width: 600px) {
-  .navbar a {
-    margin: 0.2em;
-  }
   .navbar {
-    justify-content: center;
-  }
+    font-size: 0.6em; 
+    height:40px;
+    }
+ 
 }
+
+
+

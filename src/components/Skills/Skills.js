@@ -13,9 +13,9 @@ function Skill(props) {
 
 function Skills() {
   return (
-    <div>
-      <div className="section-image-skills" />
-      <div id="skills">
+    <div id="skills">
+      <div className='skills-container' >
+        <h1>SKILLS</h1>
         <div >
           <h4>CONFIDENT</h4>
           <div className="skills">

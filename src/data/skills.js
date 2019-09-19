@@ -8,6 +8,8 @@ import Heroku from "../assets/tech-icons/Heroku.png";
 import jQuery from "../assets/tech-icons/jQuery.png";
 import node from "../assets/tech-icons/node.png";
 import Python from "../assets/tech-icons/Python.png";
+import webpack from "../assets/tech-icons/webpack.png";
+import bash from "../assets/tech-icons/bash.png";
 
 const skills = {
   confident: [
@@ -28,7 +30,7 @@ const skills = {
     },
     {
       id: 4,
-      name: "React",
+      name: "React JS",
       url: react
     }
   ],
@@ -45,18 +47,36 @@ const skills = {
     },
     {
       id: 3,
+      name: "Bash",
+      url: bash
+    },
+    {
+      id: 4,
+      name: "Webpack",
+      url: webpack
+    }
+  ],
+  dabbledWith: [
+    {
+      id: 4,
       name: "Node js",
       url: node
     },
     {
-      id: 4,
+      id: 3,
       name: "jQuery",
       url: jQuery
+    },
+    {
+      id: 1,
+      name: "Python",
+      url: Python
+    },
+    {
+      id: 2,
+      name: "Heroku",
+      url: Heroku
     }
-  ],
-  dabbledWith: [
-    { id: 1, name: "Python", url: Python },
-    { id: 2, name: "Heroku", url: Heroku }
   ]
 };
 

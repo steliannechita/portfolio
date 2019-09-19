@@ -12,7 +12,7 @@ function Profile(props) {
         margin: 15
       }}
     >
-      <a href={link} target="_blank">
+      <a href={link} target="_blank" rel="noopener noreferrer">
         <img
           src={icon}
           alt="social profile"
@@ -25,9 +25,9 @@ function Profile(props) {
 
 function SocialProfiles() {
   return (
-    <div>
-      <div className="section-image-contact" />
-      <div className="contact-container" id="contact">
+    <div id="contact">
+      
+      <div className="contact-container" >
         <h1>Contact</h1>
         <img src={profile} alt="profile-pic" className="profile" />
         <h2>Get in touch!</h2>

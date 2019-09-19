@@ -1,24 +1,20 @@
-import React, { Component } from "react";
+import React from "react";
 import PROJECTS from "../../data/projects";
 import "./Projects.css";
 
 function Project(props) {
-  const { id, title, image, description, link, sourceCode } = props.project;
+  const {  title, image, description, link, sourceCode } = props.project;
   return (
     <div className="project">
-      <h2>PROJECT {id}</h2>
+      
       <h3>{title}</h3>
-      <img
-        src={image}
-        alt="profile"
-        
-      />
+      <img src={image} alt="profile" />
       <p>{description}</p>
       <div className="links-container">
-        <a target="_blank" href={link}>
+        <a target="_blank" rel="noopener noreferrer" href={link}>
           Demo
         </a>
-        <a target="_blank" href={sourceCode}>
+        <a target="_blank" rel="noopener noreferrer" href={sourceCode}>
           Code
         </a>
       </div>
@@ -29,9 +25,9 @@ function Project(props) {
 function Projects() {
   return (
     <div>
-      <div className="section-image-projects" />
       <div id="projects">
         <div className="projects-container">
+          <h2>PROJECTS</h2>
           {PROJECTS.map(project => {
             return <Project key={project.id} project={project} />;
           })}
