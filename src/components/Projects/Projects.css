@@ -1,7 +1,7 @@
 .projects-container {
   margin: 0 auto;
   display: block;
-  padding-top:3em ;
+  padding-top: 3em;
   border-bottom: 1px solid #bdbdbd;
 }
 
@@ -43,7 +43,7 @@
   width: 100px;
   height: 45px;
   text-align: center;
-  color:white;
+  color: white;
   background-color: rgb(97, 64, 151);
   font-weight: 500;
   border-radius: 5px;
@@ -51,7 +51,7 @@
 }
 .links-container a:hover {
   background-color: rgb(64, 0, 128);
-  border:1px black solid;
+  border: 1px black solid;
 }
 
 @media only screen and (max-width: 420px) {
@@ -60,10 +60,10 @@
     height: 180px;
   }
   .project p {
-    font-size: 0.8em;
+    font-size: 0.7em;
   }
 }
-@media only screen and (max-width: 600px) and (min-width:421px){
+@media only screen and (max-width: 600px) and (min-width: 421px) {
   .project img {
     width: 350px;
     height: 250px;

@@ -16,7 +16,7 @@ const PROJECTS = [
     id: 2,
     title: "Meme generator",
     description:
-      "Meme generator is a simple web application that fetches data (random images) from an API (https://api.imgflip.com) and allows user to add text captions to established memes and changing the font size.Give it a try, it's a lot of fun!",
+      "Meme generator is a simple web application that fetches data (random images) from an API (https://api.imgflip.com) and allows user to add text captions to established memes and changing the font size. Try it, it's a lot of fun!",
     link: "https://steliannechita.github.io/meme-generator/",
     image: project2,
     sourceCode: "https://github.com/steliannechita/meme-generator"

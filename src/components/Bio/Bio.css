@@ -15,7 +15,7 @@
 
 .bio h4 {
   font-size: 1.4em;
-  text-align: left;
+  text-align: justify;
   margin: 0 auto;
   max-width: 700px;
 
@@ -30,8 +30,20 @@
 }
 
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 600px) {
   .bio p {
     font-size: 0.8em;
+    
+    
+  }
+}
+@media only screen and (max-width: 390px) {
+  .bio p {
+    font-size: 0.68em;
+    margin:0 4px;
+  }
+  .bio h4{
+    font-size: 1em;
+    margin:0 4px;
   }
 }
