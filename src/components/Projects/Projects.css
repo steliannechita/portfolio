@@ -52,6 +52,8 @@
 .links-container a:hover {
   background-color: rgb(64, 0, 128);
   border: 1px black solid;
+  transition: 0.4s;
+  transform: scale(1.07);
 }
 
 @media only screen and (max-width: 420px) {

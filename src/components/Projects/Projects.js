@@ -3,10 +3,9 @@ import PROJECTS from "../../data/projects";
 import "./Projects.css";
 
 function Project(props) {
-  const {  title, image, description, link, sourceCode } = props.project;
+  const { title, image, description, link, sourceCode } = props.project;
   return (
     <div className="project">
-      
       <h3>{title}</h3>
       <img src={image} alt="profile" />
       <p>{description}</p>

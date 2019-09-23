@@ -1,6 +1,6 @@
 .contact-container {
   color: #333;
-  margin-bottom: 2em ;
+  margin-bottom: 2em;
   padding-top: 2em;
 }
 
@@ -11,11 +11,21 @@
   margin-bottom: 0.7em;
 }
 
-.profile {
+.profile-pic {
   width: 200px;
   height: 190px;
   border-radius: 115px;
   background-size: cover;
   margin: 0.5em auto;
   border: 1px white solid;
+}
+
+.smIcon {
+  width: 35px;
+  height: 38px;
+}
+
+.smIcon:hover {
+  transition: 0.9s;
+  transform: rotateZ(360deg);
 }
