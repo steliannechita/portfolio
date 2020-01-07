@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3fb32664.chunk.css",
-    "main.js": "/portfolio/static/js/main.e59668ab.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e59668ab.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.c84805ad.chunk.css",
+    "main.js": "/portfolio/static/js/main.90b1d71f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.90b1d71f.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
-    "static/js/2.420f7ce8.chunk.js": "/portfolio/static/js/2.420f7ce8.chunk.js",
-    "static/js/2.420f7ce8.chunk.js.map": "/portfolio/static/js/2.420f7ce8.chunk.js.map",
+    "static/js/2.8ee8db14.chunk.js": "/portfolio/static/js/2.8ee8db14.chunk.js",
+    "static/js/2.8ee8db14.chunk.js.map": "/portfolio/static/js/2.8ee8db14.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.d8a53c0441938d0347c148b8dfb6a646.js": "/portfolio/precache-manifest.d8a53c0441938d0347c148b8dfb6a646.js",
+    "precache-manifest.4b0ae3f18ca2f6045d4522d11f855e2c.js": "/portfolio/precache-manifest.4b0ae3f18ca2f6045d4522d11f855e2c.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.3fb32664.chunk.css.map": "/portfolio/static/css/main.3fb32664.chunk.css.map",
+    "static/css/main.c84805ad.chunk.css.map": "/portfolio/static/css/main.c84805ad.chunk.css.map",
     "static/media/Python.png": "/portfolio/static/media/Python.0cf5f5d6.png",
     "static/media/Intro.css": "/portfolio/static/media/background-image-intro.5edaa203.jpg",
     "static/media/css3.png": "/portfolio/static/media/css3.6e78d93c.png",
@@ -25,6 +25,7 @@
     "static/media/project1.png": "/portfolio/static/media/project1.84e2b47f.png",
     "static/media/project2.png": "/portfolio/static/media/project2.f05fb721.png",
     "static/media/project3.png": "/portfolio/static/media/project3.062b7fa3.png",
+    "static/media/project4.png": "/portfolio/static/media/project4.1bf68054.png",
     "static/media/react.png": "/portfolio/static/media/react.bc1be2fd.png",
     "static/media/twitter_icon.png": "/portfolio/static/media/twitter_icon.447e10fc.png"
   }
